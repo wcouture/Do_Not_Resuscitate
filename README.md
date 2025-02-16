@@ -28,6 +28,12 @@ Open /Inoculation project directory in Unity editor.
 
 ## Contributing
 
+#### William Couture:
+- Level data-structure and templating
+- Wave progression algorithm
+- Enemy waypoint pathing
+- Tower data-structure and action interface
+
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
