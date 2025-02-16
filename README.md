@@ -34,6 +34,23 @@ Open /Inoculation project directory in Unity editor.
 - Enemy waypoint pathing
 - Tower data-structure and action interface
 
+#### Stefano Sanidas
+- Art design for all elements enemy, tower, player, etc.
+- Animation for tower firing and disease death
+
+#### Aiden Allen
+- Tower shop purchasing and purchase data saving
+- Introduction tutorial implementation
+
+#### Aidan McGill
+- UI Design throughout menu and levels
+- Player data saving
+- Ward speed mode
+
+#### Rafael Cardoso
+- Scene loading and transition
+- Door level selection
+
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
